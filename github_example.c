@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("brench!");
+	printf("github example update");
 	return 0;
 }
